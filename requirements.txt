@@ -1,0 +1,7 @@
+deeplake
+llama-index
+llama-index-readers-github
+llama-index-vector-stores-deeplake
+llama-index-embeddings-cohere
+llama-index-llms-groq
+python-dotenv
